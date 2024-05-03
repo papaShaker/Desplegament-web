@@ -2,7 +2,7 @@
 
 require_once('Connexio.php');
 require_once('Header.php');
-
+//Clase Nou
 class Nou {
     public function nouProducte($nom, $descripcio, $preu, $categoria) {
         // Verifica si todos los campos requeridos están presentes
